@@ -1,0 +1,20 @@
+{
+  "name": "react-native-statusbar-enhancer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "out/index.js",
+  "typings": "out/index.d.ts",
+  "scripts": {
+    "compile": "node node_modules/typescript/bin/tsc"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "statusbar"
+  ],
+  "author": "xzper",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.7.1"
+  }
+}

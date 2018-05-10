@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "sourceRoot": "./src",
+        "outDir": "./out",
+        "moduleResolution": "node",
+        "lib": [
+            "es2017"
+        ],
+        "jsx": "react",
+        "sourceMap": true,
+        "declaration": true
+    }
+}
